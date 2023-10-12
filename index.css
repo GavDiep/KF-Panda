@@ -1,0 +1,23 @@
+html {
+  background: url(img/kungfupandabackground.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  color: rgb(195, 255, 0);
+  text-decoration: none;
+  transition: 1s;
+  border: 2px solid white;
+  background: black;
+  margin: auto;
+  padding: 10px;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
